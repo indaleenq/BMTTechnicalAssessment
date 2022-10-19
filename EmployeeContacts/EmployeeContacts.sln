@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32228.430
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EmployeeContacts.Api", "EmployeeContacts.Api\EmployeeContacts.Api.csproj", "{7132BE63-97C3-4327-AD76-E4D761300672}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EmployeeContacts.Client", "EmployeeContacts.Client\EmployeeContacts.Client.csproj", "{E07F69AC-88E3-4709-9158-2304DE159803}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7132BE63-97C3-4327-AD76-E4D761300672}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7132BE63-97C3-4327-AD76-E4D761300672}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7132BE63-97C3-4327-AD76-E4D761300672}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7132BE63-97C3-4327-AD76-E4D761300672}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E07F69AC-88E3-4709-9158-2304DE159803}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E07F69AC-88E3-4709-9158-2304DE159803}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E07F69AC-88E3-4709-9158-2304DE159803}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E07F69AC-88E3-4709-9158-2304DE159803}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5E4BE8A1-DBBD-4C25-8585-A113DB1C5B1B}
+	EndGlobalSection
+EndGlobal
